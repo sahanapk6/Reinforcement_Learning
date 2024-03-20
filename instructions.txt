@@ -1,0 +1,18 @@
+
+Install package gym
+
+python3 actor_critic/acrobot.py
+
+python3 actor_critic/cart_pole.py
+
+python3 actor_critic/gridworld.py
+
+
+python3 n_step/Nstep_acrobot.py
+
+python3 n_step/Nstep_cart_pole.py
+
+python3 n_step/Nstep_gridworld.py
+
+
+
